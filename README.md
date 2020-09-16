@@ -21,4 +21,8 @@ Steps to run the project:
 
 python test.py
 
-Output: 
+Input: 
+![alt text] (https://github.com/AkhileshV/Nuclei-Segmentation-using-SimpleCNN/blob/master/val_image.png)
+
+Output:
+![alt text] (https://github.com/AkhileshV/Nuclei-Segmentation-using-SimpleCNN/blob/master/val_image_predmask.png)
