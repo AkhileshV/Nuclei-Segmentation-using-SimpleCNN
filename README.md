@@ -22,6 +22,9 @@ Steps to run the project:
 python test.py
 
 Input: 
+
 ![val_image](https://user-images.githubusercontent.com/35297458/93341320-95578d00-f84b-11ea-8458-b1c4396605f5.png)
 
 Output:
+
+![val_image_predmask](https://user-images.githubusercontent.com/35297458/93341564-e5365400-f84b-11ea-9d57-64b318aca816.png)
