@@ -1,0 +1,6 @@
+skimage
+numpy
+pandas
+keras==2.2.4
+matplotlib
+seaborn
